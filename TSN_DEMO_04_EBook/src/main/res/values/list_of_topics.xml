@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lec00">    Содержание</string>
+    <string name="lec01">01. Джен Синсеро</string>
+    <string name="lec11">11. Федор Достоевский</string>
+    <string name="lec15">15. Александр Пушкин</string>
+    <string name="prog">     Рекомендации</string>
+
+</resources>
